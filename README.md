@@ -1,1 +1,1 @@
-# Olist E-Commerce Profitability and Customer Retention Analysis
+# Olist E-Commerce Revenue and Customer Retention Analysis
